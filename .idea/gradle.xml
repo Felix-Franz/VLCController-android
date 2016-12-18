@@ -9,8 +9,8 @@
         <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="/mnt/data/Dokumente/Timo/AndroidStudioProjekt/VLCController" />
-            <option value="/mnt/data/Dokumente/Timo/AndroidStudioProjekt/VLCController/app" />
+            <option value="/mnt/data/Entwicklung/VLController/VLCController-android" />
+            <option value="/mnt/data/Entwicklung/VLController/VLCController-android/app" />
           </set>
         </option>
       </GradleProjectSettings>
