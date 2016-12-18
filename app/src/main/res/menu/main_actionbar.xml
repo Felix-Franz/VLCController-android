@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/reConnect"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="reconnect clients"
+        android:icon="@drawable/reconnect"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/addClient"
+        android:orderInCategory="200"
+        android:visible="true"
+        android:icon="@drawable/add"
+        app:showAsAction="always"
+        android:title="Add"/>
+
+    <item
+        android:id="@+id/deleteClient"
+        android:orderInCategory="300"
+        app:showAsAction="always"
+        android:title="delete Client"
+        android:icon="@drawable/delete"
+        android:visible="false"/>
+
+</menu>
+
